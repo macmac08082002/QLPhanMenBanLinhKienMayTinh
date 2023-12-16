@@ -1,0 +1,449 @@
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\Nguyen Khanh\source\repos\DoAnCShap\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\Source\Repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\source\repos\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Nguyen Khanh\source\repos\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Nguyen Khanh\source\repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\Nguyen Khanh\source\repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\Nguyen Khanh\source\repos\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_DSTaiKhoan.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\PHI\Desktop\DoAn\DoAN\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_DSTaiKhoan.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\PHI\Desktop\DoAn\DoAN\New folder\DoAnWinForm\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DSTaiKhoan.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachHoaDon.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietHoaDon.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonBanHang.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietNhapPhieu.resources
+C:\Users\PHI\Desktop\DAnew\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachNhapPhieu.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietHoaDon.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietNhapPhieu.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachHoaDon.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachNhapPhieu.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DSTaiKhoan.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonBanHang.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\Source\Repos\nguyenkhanh2003\DATN\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\BUS.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DTO.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DAL.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\BUS.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DTO.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\bin\Debug\DAL.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietHoaDon.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietNhapPhieu.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachHoaDon.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachNhapPhieu.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DSTaiKhoan.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonBanHang.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NCC.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DoAnCShap\obj\Debug\DoAnCShap.pdb
+=======
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\BUS.dll
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DTO.dll
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DAL.dll
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\BUS.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DTO.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\bin\Debug\DAL.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.csprojAssemblyReference.cache
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_BanHang.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietHoaDon.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChiTietNhapPhieu.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachHoaDon.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DanhSachNhapPhieu.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DSTaiKhoan.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonBanHang.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhapLinhKien.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TraCuu.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhaCungCap.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_BaoHanh.resources
+C:\Users\PHI\Documents\GitHub\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ThongKe.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.AssemblyReference.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_BanHan.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_BaoHanh.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_DangNhap.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonBanHang.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_LLinhKien.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhaCungCap.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonNhap.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_NSX.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChucVu.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_PrintHD.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_Setting.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ThongKe.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_ThongTinNhanVien.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\RdlCompile.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\RdlCompile.compiled
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\reportbc.rdlc
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\BUS.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DTO.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DAL.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\EnvDTE.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\stdole.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\BUS.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\DAL.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_InHoaDonNhap.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_LaylaiPass.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.csproj.ResolveComReference.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\MetroFramework.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.exe.licenses
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_GioiThieu.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_Alert.resources
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\bin\Debug\TKSPHetHang.rdlc
+C:\Users\Nguyen Khanh\source\repos\DATN\DoAnCShap\obj\Debug\DoAnCShap.Frm_Report.resources
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DoAnCShap\obj\Debug\DoAnCShap.exe
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DoAnCShap\obj\Debug\DoAnCShap.pdb
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\reportbc.rdlc
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\TKSPHetHang.rdlc
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DoAnCShap.exe.config
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DoAnCShap.exe
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DoAnCShap.pdb
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\BUS.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DTO.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DAL.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\EnvDTE.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\stdole.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\BUS.pdb
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DTO.pdb
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\DAL.pdb
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.csproj.AssemblyReference.cache
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.csproj.ResolveComReference.cache
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Form1.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_BanHan.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_BaoHanh.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_DangNhap.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_GioiThieu.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_LaylaiPass.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonBanHang.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_InHoaDonNhap.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_KH.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_LLinhKien.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhaCungCap.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_NhanVien.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_HoaDonNhap.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_NSX.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_ChucVu.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_PrintHD.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_Report.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_SanPham.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_Setting.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_TaoTaiKhoan.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_ThongKe.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_ThongTinNhanVien.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Frm_Alert.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Login.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.Properties.Resources.resources
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.csproj.GenerateResource.cache
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.exe.licenses
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.csproj.CoreCompileInputs.cache
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.csproj.CopyComplete
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.exe
+C:\Users\lehon\Downloads\DAQLCHBLKMT\BaiCuoiKy\DoAnCShap\obj\Debug\DoAnCShap.pdb
